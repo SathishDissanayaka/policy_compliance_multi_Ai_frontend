@@ -117,6 +117,3 @@ Highlights:
 - Run `npm run lint` before committing
 - Open a pull request describing the change and any backend prerequisites
 
-## License
-
-Proprietary – contact the project owner before redistribution or reuse.
